@@ -1,12 +1,12 @@
-## Calculadora com React
+# Calculadora com React
 
 
-# Descrição
+## Descrição
 Uma calculadora, com design baseado nas calculadoras do Mac, capaz de resolver operações matemáticas simples.
 
 ![image](https://user-images.githubusercontent.com/101872181/210818328-86becada-138f-43f9-a935-da69acd3632f.png)
 
-#Tecnologias
+## Tecnologias
 <ul>
 <li>React</li>
 <li>HTML</li>
@@ -14,19 +14,19 @@ Uma calculadora, com design baseado nas calculadoras do Mac, capaz de resolver o
 <li>Javascript</li>
 </ul>
 
-<hr>
-
-# Requisitos
- Node
- npm
+## Requisitos
+<ul>
+ <li>Node</li>
+ <li>npm</li>
+</ul>
  
-# Inicialização
+## Inicialização
+<ol>
+ <li>Baixe o projeto</li>
+ <li>Navegue pelo terminal até a pasta do projeto</li>
+ <li>Digite <strong>npm start</strong> e aguarde</li>
+</ol>
+Caso o projeto não abra automaticamente, vá até o seu navegador e digite http://localhost:3000
 
-- Baixe o projeto
-- Navegue pelo terminal ate a pasta do projeto
-- Digite <strong>npm start</strong> e aguarde
-
-Caso o projeto não abra atuomaticamente, vá até o seu navegador e digite http://localhost:3000
-
-# Colaboradores
+## Colaboradores
 Pedro Henrique Fernandes
